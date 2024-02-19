@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Github](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/four-cards-section-made-with-grid-react-and-scss-nV3VCbkEJ-))
+- Live Site URL: [Github]([https://your-live-site-url.com](https://r3ygoski.github.io/four-card-feature-section-react/))
 
 ## My process
 
