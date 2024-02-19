@@ -1,0 +1,16 @@
+@use './scss/abstract/var';
+@use './App.scss';
+@use './components/Cards/Cards.scss';
+
+* {
+    font-size: 15px;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: var.$mainFont;
+}
+
+#root {
+    height: 100vh;
+    width: 100%;
+}

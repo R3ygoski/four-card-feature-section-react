@@ -1,0 +1,38 @@
+@use '../../scss/abstract/var';
+
+.card {
+    position: relative;
+    background: #fff;
+    height: 225px;
+    border-top: 4px solid;
+    border-radius: .5rem;
+    padding: 1.5rem;
+    box-shadow: 0px 10px 15px rgba(0,0,0,.25);
+    &__title {
+        font-size: 1.3rem;
+        color: var.$veryDarkBlue;
+    }
+    &__desc {
+        margin-top: .5rem;
+        font-size: .925rem;
+        color: var.$grayishBlue;
+    }
+    &__icon {
+        position: absolute;
+        bottom: 13%;
+        right: 7%;
+        width: 4rem;
+    }
+}
+.supervisor{
+    border-color: var.$cyan;
+}
+.teambuild{
+    border-color: var.$red;
+}
+.karma{
+    border-color: var.$orange;
+}
+.calculator{
+    border-color: var.$blue;
+}
